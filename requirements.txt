@@ -1,2 +1,2 @@
-Generator
-Groq
+groq
+streamlit
